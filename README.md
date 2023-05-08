@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Leonid
-I am studying a new profession for me - quality engineer
+I am studying a new profession for me - QA-engineer
 
 Skills: manual testing, DevTools, Postman, SQL, Git, autotesting Java, Unit, Selenium, Selenide, JavaScript, Puppeteer, Playwright, Cypress, Android Studio, Espresso, Docker, Docker Compose, CI/CD, Github Actions, AppVeyor, JMeter, BlazeMeter, Grafana, Prometheus
 
